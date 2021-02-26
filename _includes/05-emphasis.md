@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**This is my first expereince with coding and programming**
+
+*I hope it gives me the knowledge that I always wanted, app development*
